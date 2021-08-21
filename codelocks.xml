@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<events>
+	<event name="CombinationLock4">
+		<pos x="10244.7" y="44.7105" z="3718.9" a="0"/>
+		<pos x="10245" y="44.6404" z="3717.39" a="0"/>
+		<pos x="10246.1" y="44.1811" z="3701.96" a="-180"/>
+		<pos x="10245.9" y="44.2081" z="3702.3" a="18"/>
+	</event>
+</events>

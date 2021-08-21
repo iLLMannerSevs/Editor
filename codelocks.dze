@@ -1,0 +1,76 @@
+{
+    "Version": 1,
+    "MapName": "ChernarusPlus",
+    "CameraPosition": [
+        10246.2587890625,
+        46.484676361083987,
+        3744.936767578125
+    ],
+    "EditorObjects": [
+        {
+            "Type": "CombinationLock4",
+            "DisplayName": "CombinationLock4",
+            "Position": [
+                10244.6669921875,
+                44.71049499511719,
+                3718.904541015625
+            ],
+            "Orientation": [
+                0.0,
+                -0.1483449786901474,
+                13.85632038116455
+            ],
+            "Scale": 0.9903935790061951,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "CombinationLock4",
+            "DisplayName": "CombinationLock4",
+            "Position": [
+                10244.9677734375,
+                44.64039611816406,
+                3717.390625
+            ],
+            "Orientation": [
+                0.0,
+                -0.1483449637889862,
+                13.85632038116455
+            ],
+            "Scale": 0.9903935194015503,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "CombinationLock4",
+            "DisplayName": "CombinationLock4",
+            "Position": [
+                10246.1240234375,
+                44.181129455566409,
+                3701.9560546875
+            ],
+            "Orientation": [
+                -179.99984741210938,
+                8.218297958374024,
+                -17.41492462158203
+            ],
+            "Scale": 0.9814126491546631,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "CombinationLock4",
+            "DisplayName": "CombinationLock4",
+            "Position": [
+                10245.8642578125,
+                44.20809555053711,
+                3702.3046875
+            ],
+            "Orientation": [
+                18.00000762939453,
+                -12.913058280944825,
+                13.883764266967774
+            ],
+            "Scale": 0.9814125895500183,
+            "Flags": 2147483647
+        }
+    ],
+    "EditorDeletedObjects": []
+}

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<events>
+	<event name="Land_Mil_Barracks1">
+		<pos x="6939.69" y="177.422" z="11212.4" a="35.9999"/>
+	</event>
+	<event name="Land_Mil_Tent_Big3">
+		<pos x="6828.79" y="176.776" z="11211.3" a="-135"/>
+		<pos x="6875.84" y="175.85" z="11159.8" a="-126"/>
+		<pos x="6950.99" y="176.478" z="11233.1" a="44.9997"/>
+	</event>
+	<event name="Land_Mil_Tent_Big4">
+		<pos x="6853.16" y="176.946" z="11182.2" a="-45"/>
+		<pos x="6880.98" y="175.86" z="11145.9" a="-45"/>
+	</event>
+	<event name="Land_Mil_Radar_Mobile1">
+		<pos x="6922.33" y="175.581" z="11184.9" a="-46.5"/>
+		<pos x="6787.11" y="175.981" z="11186.1" a="-45"/>
+		<pos x="6901.12" y="176.712" z="11250.4" a="-126"/>
+	</event>
+	<event name="Land_Mil_AircraftShelter">
+		<pos x="6850.37" y="177.681" z="11284.2" a="-36"/>
+		<pos x="6897.2" y="176.985" z="11279.1" a="55.9999"/>
+	</event>
+	<event name="Land_Mil_Tent_Big2_3">
+		<pos x="6812.67" y="176.816" z="11158.8" a="-135"/>
+	</event>
+	<event name="Land_Mil_Tent_Big1_2">
+		<pos x="6859.12" y="175.248" z="11192.8" a="-44.9997"/>
+	</event>
+	<event name="Land_Mil_GuardHouse3">
+		<pos x="6902" y="178.895" z="11379.9" a="-39.9999"/>
+	</event>
+	<event name="Land_Sawmill_Building">
+		<pos x="6845.36" y="184.231" z="11366.1" a="48.5"/>
+	</event>
+	<event name="Land_Mil_ReinforcedTank1">
+		<pos x="6940.1" y="176.432" z="11287.7" a="72"/>
+	</event>
+	<event name="Land_Mil_ReinforcedTank2">
+		<pos x="6896.81" y="175.764" z="11320.9" a="-100.5"/>
+		<pos x="6912.58" y="175.312" z="11223.1" a="-63.0001"/>
+	</event>
+	<event name="Land_Mil_Radar_Mobile2">
+		<pos x="6866.96" y="177.349" z="11313.1" a="0"/>
+		<pos x="6828.36" y="177.292" z="11283.4" a="-54"/>
+		<pos x="6882.66" y="175.636" z="11212" a="-44.9999"/>
+		<pos x="6957.34" y="175.686" z="11258.2" a="-108"/>
+		<pos x="6936.99" y="175.721" z="11246.8" a="0"/>
+		<pos x="6925.5" y="175.867" z="11249.9" a="-98.9999"/>
+		<pos x="6924.1" y="175.184" z="11200.2" a="54"/>
+	</event>
+	<event name="Land_Mil_Tower_Small">
+		<pos x="6939.29" y="179.132" z="11185.5" a="-135"/>
+	</event>
+	<event name="Land_Mil_Barracks_Round">
+		<pos x="6796.09" y="176.372" z="11171" a="-45"/>
+	</event>
+	<event name="Land_Mil_Tent_Big2_4">
+		<pos x="6844.08" y="177.916" z="11215.1" a="54"/>
+	</event>
+	<event name="Land_Mil_ControlTower">
+		<pos x="6908.17" y="185.388" z="11375.6" a="-130.5"/>
+		<pos x="6959.77" y="183.162" z="11228.6" a="-132"/>
+	</event>
+	<event name="Land_Mil_GuardBox_Brown">
+		<pos x="6903.31" y="179.388" z="11374.4" a="-40.5001"/>
+	</event>
+	<event name="Land_Mil_CamoNet_Roof_east">
+		<pos x="6879.97" y="178.155" z="11199.3" a="-126"/>
+		<pos x="6899.74" y="177.9" z="11183" a="-126"/>
+		<pos x="6877.3" y="177.394" z="11158.4" a="-36"/>
+		<pos x="6796" y="177.747" z="11171.9" a="-135"/>
+		<pos x="6808.04" y="177.898" z="11181.4" a="-45"/>
+		<pos x="6818.04" y="177.434" z="11163.3" a="45"/>
+		<pos x="6909.1" y="177.168" z="11115.4" a="-26.9999"/>
+		<pos x="6907.88" y="177.013" z="11126.7" a="-126"/>
+		<pos x="6899.83" y="177.169" z="11124.2" a="-54.0002"/>
+		<pos x="6900.65" y="177.251" z="11112.4" a="171"/>
+		<pos x="6891.09" y="177.217" z="11119" a="27.0005"/>
+	</event>
+	<event name="Land_Ruin_Mil_ControlTower">
+		<pos x="6869.37" y="180.634" z="11392.2" a="-44.5"/>
+	</event>
+	<event name="Land_Mil_Fortified_Nest_Watchtower">
+		<pos x="6890.66" y="176.56" z="11113.2" a="-71.5"/>
+		<pos x="6895.86" y="176.35" z="11129.6" a="35.9999"/>
+		<pos x="6869.58" y="176.37" z="11131" a="-1"/>
+		<pos x="6849.87" y="175.318" z="11113.5" a="5.5"/>
+		<pos x="6905.02" y="177.406" z="11174.2" a="135"/>
+		<pos x="6894.73" y="177.225" z="11192.2" a="141"/>
+		<pos x="6961.41" y="178.302" z="11236.1" a="-54.0002"/>
+	</event>
+	<event name="Land_CementWorks_MillA">
+		<pos x="6943.79" y="198.933" z="11348.9" a="-39.9998"/>
+	</event>
+	<event name="Land_Mil_GuardTower">
+		<pos x="6856.79" y="182.848" z="11236.9" a="54"/>
+	</event>
+	<event name="Land_CementWorks_MillC">
+		<pos x="6957.81" y="189.258" z="11360.4" a="140"/>
+	</event>
+	<event name="Land_Sawmill_Illuminanttower">
+		<pos x="6914.89" y="185.172" z="11175.6" a="-45"/>
+		<pos x="6892.13" y="188.012" z="11366.9" a="-38.5"/>
+	</event>
+	<event name="Land_Mil_Fortified_Nest_Big">
+		<pos x="6899.81" y="175.49" z="11112.5" a="10"/>
+		<pos x="6910.68" y="175.4" z="11129.9" a="-135"/>
+		<pos x="6898.92" y="176.09" z="11182.9" a="-138.5"/>
+	</event>
+	<event name="Land_Mil_Tent_Big1_1">
+		<pos x="6807.76" y="175.248" z="11185" a="-45.0001"/>
+	</event>
+	<event name="Land_Mil_Barracks6">
+		<pos x="6954.69" y="174.927" z="11190.3" a="-47.0001"/>
+	</event>
+	<event name="Land_Mil_Tent_Big1_4">
+		<pos x="6858.65" y="174.862" z="11174.5" a="-135"/>
+	</event>
+	<event name="Land_Mil_Tent_Big1_5">
+		<pos x="6840.67" y="175.332" z="11194.8" a="-135"/>
+	</event>
+	<event name="Land_Mil_GuardShed">
+		<pos x="6872.47" y="175.834" z="11115.3" a="63"/>
+		<pos x="6887.78" y="174.933" z="11120.4" a="28.0002"/>
+		<pos x="6898.29" y="176.397" z="11123.7" a="126"/>
+		<pos x="6906.16" y="176.4" z="11117.4" a="-53.5002"/>
+		<pos x="6908.85" y="175.799" z="11122.3" a="-53.9998"/>
+	</event>
+	<event name="Land_Mil_Fortified_Nest_Small">
+		<pos x="6882.4" y="175.354" z="11109" a="10"/>
+		<pos x="6874.08" y="175.144" z="11110.3" a="90.4999"/>
+		<pos x="6902.84" y="174.973" z="11130.9" a="-135"/>
+	</event>
+	<event name="Land_Mil_Airfield_HQ">
+		<pos x="6935.27" y="180.225" z="11168.1" a="-135"/>
+		<pos x="6974.38" y="180.461" z="11214" a="-132.5"/>
+	</event>
+	<event name="Land_Mil_GuardBox_Green">
+		<pos x="6894.21" y="175.65" z="11117.8" a="-90"/>
+	</event>
+</events>

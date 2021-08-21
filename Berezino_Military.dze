@@ -1,0 +1,412 @@
+{
+    "Version": 1,
+    "MapName": "ChernarusPlus",
+    "CameraPosition": [
+        12265.3818359375,
+        49.319644927978519,
+        9679.7587890625
+    ],
+    "EditorObjects": [
+        {
+            "Type": "Land_CementWorks_MillA",
+            "DisplayName": "Land_CementWorks_MillA",
+            "Position": [
+                12953.5,
+                27.999000549316408,
+                9993.3896484375
+            ],
+            "Orientation": [
+                -163.99998474121095,
+                -0.21612998843193055,
+                0.17075099050998689
+            ],
+            "Scale": 1.0000001192092896,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Farm_WaterTower_Small",
+            "DisplayName": "Land_Farm_WaterTower_Small",
+            "Position": [
+                13009.2001953125,
+                10.99590015411377,
+                9985.990234375
+            ],
+            "Orientation": [
+                107.99999237060547,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Construction_Crane",
+            "DisplayName": "Land_Construction_Crane",
+            "Position": [
+                12862.2998046875,
+                23.98270034790039,
+                9892.2099609375
+            ],
+            "Orientation": [
+                8.999919891357422,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Container_1Aoh",
+            "DisplayName": "Land_Container_1Aoh",
+            "Position": [
+                12888.5,
+                7.179059982299805,
+                9889.4599609375
+            ],
+            "Orientation": [
+                98.99989318847656,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Container_1Bo",
+            "DisplayName": "Land_Container_1Bo",
+            "Position": [
+                12882.7998046875,
+                7.179019927978516,
+                9883.73046875
+            ],
+            "Orientation": [
+                -170.99998474121095,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Garage_Office",
+            "DisplayName": "Land_Garage_Office",
+            "Position": [
+                12829.2998046875,
+                9.961700439453125,
+                9876.16015625
+            ],
+            "Orientation": [
+                -149.49998474121095,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Mil_Barracks6",
+            "DisplayName": "Land_Mil_Barracks6",
+            "Position": [
+                12233.7998046875,
+                11.401300430297852,
+                9759.7001953125
+            ],
+            "Orientation": [
+                12.499899864196778,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Mil_Barracks6",
+            "DisplayName": "Land_Mil_Barracks6",
+            "Position": [
+                12283.400390625,
+                11.401399612426758,
+                9726.3798828125
+            ],
+            "Orientation": [
+                102.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Mil_Airfield_HQ",
+            "DisplayName": "Land_Mil_Airfield_HQ",
+            "Position": [
+                12265.0,
+                16.850200653076173,
+                9749.740234375
+            ],
+            "Orientation": [
+                103.49999237060547,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Mil_Barracks5",
+            "DisplayName": "Land_Mil_Barracks5",
+            "Position": [
+                12211.099609375,
+                16.958999633789064,
+                9744.0
+            ],
+            "Orientation": [
+                103.99998474121094,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Roadblock_Table",
+            "DisplayName": "Land_Roadblock_Table",
+            "Position": [
+                12227.646484375,
+                11.712952613830567,
+                9711.83984375
+            ],
+            "Orientation": [
+                17.99982452392578,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999997019767761,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Mil_Tent_Big3",
+            "DisplayName": "Land_Mil_Tent_Big3",
+            "Position": [
+                12228.0,
+                12.406100273132325,
+                9722.9501953125
+            ],
+            "Orientation": [
+                107.99999237060547,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Mil_Tent_Big4",
+            "DisplayName": "Land_Mil_Tent_Big4",
+            "Position": [
+                12240.7001953125,
+                12.510000228881836,
+                9727.4599609375
+            ],
+            "Orientation": [
+                107.49999237060547,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Tisy_Base_cooler",
+            "DisplayName": "Land_Tisy_Base_cooler",
+            "Position": [
+                12203.599609375,
+                14.953300476074219,
+                9725.419921875
+            ],
+            "Orientation": [
+                102.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Tisy_KitchenRoom",
+            "DisplayName": "Land_Tisy_KitchenRoom",
+            "Position": [
+                12259.7998046875,
+                15.899999618530274,
+                9720.3203125
+            ],
+            "Orientation": [
+                -166.99998474121095,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Power_Pole_Wood1_Lamp_Amp",
+            "DisplayName": "Land_Power_Pole_Wood1_Lamp_Amp",
+            "Position": [
+                12271.0,
+                14.802000045776368,
+                9732.009765625
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Power_Pole_Conc4_Lamp_Amp",
+            "DisplayName": "Land_Power_Pole_Conc4_Lamp_Amp",
+            "Position": [
+                12247.0576171875,
+                16.866668701171876,
+                9750.2412109375
+            ],
+            "Orientation": [
+                -81.00006866455078,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Power_Transformer_Build",
+            "DisplayName": "Land_Power_Transformer_Build",
+            "Position": [
+                12252.5,
+                15.08650016784668,
+                9733.990234375
+            ],
+            "Orientation": [
+                -76.50009155273438,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Power_Pole_Wood1_Amp",
+            "DisplayName": "Land_Power_Pole_Wood1_Amp",
+            "Position": [
+                12248.900390625,
+                15.319000244140625,
+                9711.0498046875
+            ],
+            "Orientation": [
+                90.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Workshop4",
+            "DisplayName": "Land_Workshop4",
+            "Position": [
+                12211.099609375,
+                12.890299797058106,
+                9717.83984375
+            ],
+            "Orientation": [
+                -78.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Guardhouse",
+            "DisplayName": "Land_Guardhouse",
+            "Position": [
+                12246.7998046875,
+                12.690400123596192,
+                9709.759765625
+            ],
+            "Orientation": [
+                -79.50028991699219,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Tank_Medium_Stairs",
+            "DisplayName": "Land_Tank_Medium_Stairs",
+            "Position": [
+                12268.5,
+                12.963800430297852,
+                9712.150390625
+            ],
+            "Orientation": [
+                102.99999237060547,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Workshop5",
+            "DisplayName": "Land_Workshop5",
+            "Position": [
+                12280.7998046875,
+                12.553299903869629,
+                9704.2001953125
+            ],
+            "Orientation": [
+                -80.0000991821289,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Misc_Scaffolding",
+            "DisplayName": "Land_Misc_Scaffolding",
+            "Position": [
+                12207.7001953125,
+                15.000699996948243,
+                9762.8203125
+            ],
+            "Orientation": [
+                102.99999237060547,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Castle_WallS_5_D",
+            "DisplayName": "Land_Castle_WallS_5_D",
+            "Position": [
+                12244.0,
+                11.286199569702149,
+                9776.419921875
+            ],
+            "Orientation": [
+                -163.5,
+                2.993759870529175,
+                0.8939299583435059
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        }
+    ],
+    "EditorDeletedObjects": []
+}
